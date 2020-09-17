@@ -3,3 +3,4 @@ This is an example
 The weather was warm today, 
 similar to yesterday.
 
+This is a change I have made 
